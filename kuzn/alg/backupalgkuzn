@@ -1,0 +1,52 @@
+.PS
+ENCR:
+	ellipse "Открытый текст" ht 0.3i wid 1.5i
+	arrow "128 бит" down at 1st ellipse - (0i, 0.15i)
+	circle rad 0.1i 
+	arrow down 0.2i
+	box "L преобразование" ht 0.3i wid 1.5i
+	arrow down 0.2i
+	box "S преобразование" ht 0.3i wid 1.5i
+	arrow down 0.2i
+	circle rad 0.1i
+	arrow down 0.2i
+	box "L преобразование" ht 0.3i wid 1.5i
+	arrow down 0.2i
+	box "S преобразование" ht 0.3i wid 1.5i
+	arrow down 0.2i
+	move "..." above down 0.2i
+	arrow down 0.2i
+	circle  rad 0.1i
+	arrow down 0.2i
+	box "L преобразование" ht 0.3i wid 1.5i
+	arrow down 0.2i
+	box "S преобразование" ht 0.3i wid 1.5i
+	line down 0.2i
+	circle  rad 0.1i
+	arrow "128 бит" down
+	ellipse "Шифртекст" ht 0.3i wid 1.5i
+DASH:
+	line dashed left at 1st box - (0.78i, -0.15i)
+	line dashed left at 3st box - (0.78i, -0.15i)
+SPL:
+	spline "1й раунд" "шифрования" down 1.4i <-> at 2st line - (0.5i, 0i)
+LINE:
+	line right 0.2i at 1st circle - (0.1i, 0i)
+	line up 0.2i at 1st circle - (0i, 0.1i)
+	line right 0.2i at 2st circle - (0.1i, 0i)
+	line up 0.2i at 2st circle - (0i, 0.1i)
+	line right 0.2i at 3st circle - (0.1i, 0i)
+	line up 0.2i at 3st circle - (0i, 0.1i)
+	line up 0.2i at 4st circle - (0i, 0.1i)
+	line right 0.2i at 4st circle - (0.1i, 0i)
+BKEY:
+	box "K1" ht 0.2 wid 0.3 at 1st circle - (-0.6i,0i)
+	box "K2" ht 0.2 wid 0.3 at 2st circle - (-0.6i,0i)
+	box "K9" ht 0.2 wid 0.3 at 3st circle - (-0.6i,0i)
+	box "K10" ht 0.2 wid 0.3 at 4st circle - (-0.6i,0i)
+AKEY:
+	arrow left 0.35i at 7st box - (0.15i, 0i);
+	arrow left 0.35i at 8st box - (0.15i, 0i);
+	arrow left 0.35i at 9st box - (0.15i, 0i);
+	arrow left 0.35i at 10st box - (0.15i, 0i);
+.PE
