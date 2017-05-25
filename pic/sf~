@@ -1,0 +1,22 @@
+.PS
+box ht 0.2 "L0"; box ht 0.2 "R0";
+.\"arrow down then right 1.2i down 0.2i at 1st box - (0.2i, 0.1i); 
+.\"arrow down then left 1.2i  down 0.2i at 2st box - (-0.2i, 0.1i); 
+arrow down 0.2i at 1st box - (0.2i, 0.1i); arrow down 0.2i at 2st box - (-0.2i, 0.1i); 
+arrow down then right 1.15i down 0.2i then down 0.2i at 1st arrow - (0i, 0.1i);
+arrow down then left 1.15i  down 0.2i then down 0.2i at 2st arrow - (0i, 0.1i);
+line right 1.15i dashed; move down 0.15i ;line left 1.15i dashed; 
+arrow down 0.2i at 2st line - (0i, 0i); arrow down 0.2i at 2st line - (1.15i, 0i);
+arrow down then right 1.15i down 0.2i then down 0.2i at 6st arrow - (0i, 0.1i);
+arrow down then left 1.15i  down 0.2i then down 0.2i at 5st arrow - (0i, 0.1i);
+arrow down 0.6i at 7st arrow - (0i, 0.91i); arrow down 0.6i at 8st arrow - (0i, 0.91i);
+line down 0.15i at 10st arrow - (0i, 0.55i); 
+box left ht 0.2 "Rn" at 3st line - (0.2i, 0.25i);
+line down 0.15i at 9st arrow - (0i, 0.55i);
+box ht 0.2 "Ln" at 4st line - (-0.2i, 0.25i);
+OTHER:
+	box "K0" ht 0.1 wid 0.4 at 1st box - (-0.36i, 0.25i); arrow down 0.1i; box "F" ht 0.15; 
+	line right 0.30i at last box - (-0.38i, 0i);
+	circle rad 0.1 right at last box - (-0.586i, 0i);
+	arrow right 0.18i at last box - (0.55i, 0i);
+.PE
