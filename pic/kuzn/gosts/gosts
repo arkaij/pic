@@ -1,9 +1,0 @@
-.PS
-	ellipse ht 1i wid 2i "Российские" "Криптографические" "Госты"
-	ellipse ht 1i wid 2i "Цифровая подпись:" "ГОСТ Р 34.10 \(em 94" "ГОСТ Р 34.10 \(em 2001" "ГОСТ Р 34.10 \(em 2012" at 1st ellipse - (2i, 1i)
-	ellipse ht 1i wid 2i "Функция хэширования:" "ГОСТ Р 34.11 \(em 94" "ГОСТ Р 34.11 \(em 2012" at 1st ellipse - (-2.5i, 0i) 
-	ellipse ht 1i wid 2i "Блочные шифры:" "ГОСТ 28147 \(em 89" "ГОСТ Р 34.12 \(em 2015" "ГОСТ Р 34.13 \(em 2015" at 1st ellipse - (2i, -1i)
-	spline right 0.6i then down 0.4i -> at 4st ellipse - (-0.46i, 0.45i)
-	spline right 0.6i then up 0.4i -> at 2st ellipse - (-0.46i, -0.45i)
-	arrow left at 3st ellipse - (1i,0i)
-.PE
