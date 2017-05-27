@@ -1,0 +1,25 @@
+.PS
+.ps 8
+BOX1:
+	box ht 0.25 wid 0.35 "E8"; move 0.1; box ht 0.25 wid 0.35 "7D"; move 0.1; 
+	box ht 0.25 wid 0.35 "E8"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "E8"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+BOX2:
+	box ht 0.25 wid 0.35 "E8" at 1st box - (0, 0.5); move 0.1; box ht 0.25 wid 0.35 "7D"; move 0.1; 
+	box ht 0.25 wid 0.35 "7D"; move 0.1; box ht 0.25 wid 0.35 "E8"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "E8"; move 0.1;
+	box ht 0.25 wid 0.35 "7D"; move 0.1; box ht 0.25 wid 0.35 "E8"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.2; box ht 0.25 wid 0.35 "a16"; move 0.1;
+	arrow left 0.1 at 32st box - (0.225i ,0i);		
+	box width 6.45 height 0.1 at 17st box - (-3.25, 0.4); 
+	
+.PE
+

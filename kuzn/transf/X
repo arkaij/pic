@@ -36,4 +36,128 @@ BOX4:
 	box ht 0.25 wid 0.35 "B"; move 0.1; box ht 0.25 wid 0.35 "B"; move 0.1;
 	box ht 0.25 wid 0.35 "9"; move 0.1; box ht 0.25 wid 0.35 "9"; move 0.1;
 	box ht 0.25 wid 0.35 "F"; move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1;
+BOX5:
+	box ht 0.25 wid 0.35 "F" at 49st box - (0, 0.7); move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1; 
+	box ht 0.25 wid 0.35 "E"; move 0.1; box ht 0.25 wid 0.35 "E"; move 0.1;
+	box ht 0.25 wid 0.35 "D"; move 0.1; box ht 0.25 wid 0.35 "D"; move 0.1;
+	box ht 0.25 wid 0.35 "C"; move 0.1; box ht 0.25 wid 0.35 "C"; move 0.1;
+	box ht 0.25 wid 0.35 "B"; move 0.1; box ht 0.25 wid 0.35 "B"; move 0.1;
+	box ht 0.25 wid 0.35 "A"; move 0.1; box ht 0.25 wid 0.35 "A"; move 0.1;
+	box ht 0.25 wid 0.35 "9"; move 0.1; box ht 0.25 wid 0.35 "9"; move 0.1;
+	box ht 0.25 wid 0.35 "8"; move 0.1; box ht 0.25 wid 0.35 "8"; move 0.1;
+BOX6:
+	box ht 0.25 wid 0.35 "1111" at 65st box - (0, 0.5); move 0.1; box ht 0.25 wid 0.35 "1111"; move 0.1; 
+	box ht 0.25 wid 0.35 "1110"; move 0.1; box ht 0.25 wid 0.35 "1110"; move 0.1;
+	box ht 0.25 wid 0.35 "1101"; move 0.1; box ht 0.25 wid 0.35 "1101"; move 0.1;
+	box ht 0.25 wid 0.35 "1100"; move 0.1; box ht 0.25 wid 0.35 "1100"; move 0.1;
+	box ht 0.25 wid 0.35 "1011"; move 0.1; box ht 0.25 wid 0.35 "1010"; move 0.1;
+	box ht 0.25 wid 0.35 "1010"; move 0.1; box ht 0.25 wid 0.35 "1010"; move 0.1;
+	box ht 0.25 wid 0.35 "1001"; move 0.1; box ht 0.25 wid 0.35 "1001"; move 0.1;
+	box ht 0.25 wid 0.35 "1000"; move 0.1; box ht 0.25 wid 0.35 "1000"; move 0.1;
+BOX7:
+	box ht 0.25 wid 0.35 "0000" at 81st box - (0, 0.5); move 0.1; box ht 0.25 wid 0.35 "0000"; move 0.1;
+	box ht 0.25 wid 0.35 "0001"; move 0.1; box ht 0.25 wid 0.35 "0001"; move 0.1; 
+	box ht 0.25 wid 0.35 "0010"; move 0.1; box ht 0.25 wid 0.35 "0010"; move 0.1;
+	box ht 0.25 wid 0.35 "0011"; move 0.1; box ht 0.25 wid 0.35 "0011"; move 0.1;
+	box ht 0.25 wid 0.35 "0100"; move 0.1; box ht 0.25 wid 0.35 "0100"; move 0.1;
+	box ht 0.25 wid 0.35 "0101"; move 0.1; box ht 0.25 wid 0.35 "0101"; move 0.1;
+	box ht 0.25 wid 0.35 "0110"; move 0.1; box ht 0.25 wid 0.35 "0110"; move 0.1;
+	box ht 0.25 wid 0.35 "0111"; move 0.1; box ht 0.25 wid 0.35 "0111"; move 0.1;
+BOX8:
+	box ht 0.25 wid 0.35 "F" at 97st box - (0, 0.5); move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1; 
+	box ht 0.25 wid 0.35 "F"; move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1;
+	box ht 0.25 wid 0.35 "F"; move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1;
+	box ht 0.25 wid 0.35 "F"; move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1;
+	box ht 0.25 wid 0.35 "F"; move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1;
+	box ht 0.25 wid 0.35 "F"; move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1;
+	box ht 0.25 wid 0.35 "F"; move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1;
+	box ht 0.25 wid 0.35 "F"; move 0.1; box ht 0.25 wid 0.35 "F"; move 0.1;
+ARROW1:
+	arrow down 0.25 at 1st box - (0, 0.13); move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+ARROW2:
+	arrow down 0.25 at 33st box - (0, 0.13); move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+ARROW3:
+	arrow down 0.25 at 65st box - (0, 0.13); move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+ARROW4:
+	arrow down 0.25 at 97st box - (0, 0.13); move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+.ps 24
+CIRCLE:
+	circle rad 0.1 at 17st box - (0, 0.25); move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1 at 81st box - (0, 0.25); move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+	circle rad 0.1; move 0.25; circle rad 0.1; move 0.25;
+LINES:
+	line right 0.2 at 1st circle - (0.1, 0); move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2 at 17st circle - (0.1, 0); move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line right 0.2; move 0.25; line right 0.2; move 0.25;
+	line up 0.2 at 1st circle - (0, 0.1); move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2 at 17st circle - (0, 0.1); move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
+	line up 0.2; move right 0.45; move down 0.2; line up 0.2; move right 0.45; move down 0.2;
 .PE
+

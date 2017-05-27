@@ -1,0 +1,31 @@
+.PS
+.ps 8
+BOX1:
+	box ht 0.25 wid 0.35 "99"; move 0.1; box ht 0.25 wid 0.35 "BB"; move 0.1; 
+	box ht 0.25 wid 0.35 "99"; move 0.1; box ht 0.25 wid 0.35 "FF"; move 0.1;
+	box ht 0.25 wid 0.35 "99"; move 0.1; box ht 0.25 wid 0.35 "BB"; move 0.1;
+	box ht 0.25 wid 0.35 "99"; move 0.1; box ht 0.25 wid 0.35 "FF"; move 0.1;
+	box ht 0.25 wid 0.35 "FF"; move 0.1; box ht 0.25 wid 0.35 "FF"; move 0.1;
+	box ht 0.25 wid 0.35 "FF"; move 0.1; box ht 0.25 wid 0.35 "FF"; move 0.1;
+	box ht 0.25 wid 0.35 "FF"; move 0.1; box ht 0.25 wid 0.35 "FF"; move 0.1;
+	box ht 0.25 wid 0.35 "FF"; move 0.1; box ht 0.25 wid 0.35 "FF"; move 0.1;
+BOX2:
+	box ht 0.25 wid 0.35 "E8" at 1st box - (0, 0.5); move 0.1; box ht 0.25 wid 0.35 "7D"; move 0.1; 
+	box ht 0.25 wid 0.35 "E8"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "E8"; move 0.1; box ht 0.25 wid 0.35 "7D"; move 0.1;
+	box ht 0.25 wid 0.35 "E8"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+	box ht 0.25 wid 0.35 "B6"; move 0.1; box ht 0.25 wid 0.35 "B6"; move 0.1;
+ARROW1:
+	arrow down 0.25 at 1st box - (0, 0.13); move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+	arrow down 0.25; move right 0.45; move up 0.25 ; arrow down 0.25; move up 0.25; move right 0.45;
+.PE
+
