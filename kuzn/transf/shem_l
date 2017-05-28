@@ -1,0 +1,132 @@
+.EQ
+delim $$
+.EN
+.PS
+BOXS:
+	box ht 0.3 wid 0.4 "$a sub 0$"; 
+	box ht 0.3 wid 0.4 "$a sub 1$"; 
+	box ht 0.3 wid 0.4 "$a sub 2$";
+	box ht 0.3 wid 0.4 "$a sub 3$"; 
+	box ht 0.3 wid 0.4 "$a sub 4$"; 
+	box ht 0.3 wid 0.4 "$a sub 5$";
+	box ht 0.3 wid 0.4 "$a sub 6$"; 
+	box ht 0.3 wid 0.4 "$a sub 7$"; 
+	box ht 0.3 wid 0.4 "$a sub 8$";
+	box ht 0.3 wid 0.4 "$a sub 9$"; 
+	box ht 0.3 wid 0.4 "$a sub 10$"; 
+	box ht 0.3 wid 0.4 "$a sub 11$";
+	box ht 0.3 wid 0.4 "$a sub 12$"; 
+	box ht 0.3 wid 0.4 "$a sub 13$"; 
+	box ht 0.3 wid 0.4 "$a sub 14$";
+	box ht 0.3 wid 0.4 "$a sub 15$";
+BOXS2:
+	box ht 0.25 wid 0.4 "\(bu148" at 2st box - (0, 0.5)
+	box ht 0.25 wid 0.4 "\(bu32" 
+	box ht 0.25 wid 0.4 "\(bu133" 	
+	box ht 0.25 wid 0.4 "\(bu16" 	
+	box ht 0.25 wid 0.4 "\(bu194" 	
+	box ht 0.25 wid 0.4 "\(bu192"
+	move 0.4	
+	box ht 0.25 wid 0.4 "\(bu251"
+	move 0.4	
+	box ht 0.25 wid 0.4 "\(bu192" 	
+	box ht 0.25 wid 0.4 "\(bu194" 	
+	box ht 0.25 wid 0.4 "\(bu16" 	
+	box ht 0.25 wid 0.4 "\(bu133" 	
+	box ht 0.25 wid 0.4 "\(bu32" 	
+	box ht 0.25 wid 0.4 "\(bu148" 
+CIRCLE:
+	circle rad 0.1 at 2st box - (0, 1) 
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1 
+       	move 0.2	
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1
+	move 0.2
+	circle rad 0.1  
+	move 0.2
+	circle rad 0.1
+LINES1:
+	line down 0.85 at 1st box - (0, 0.15)
+	line down 0.22 at 2st box - (0, 0.15)
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.75
+	move up 0.75; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.75 
+	move up 0.75; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+	move up 0.22; move right 0.4
+	line down 0.22 
+LINES2:
+	line down 0.47 at 2st box - (0, 0.63)
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+	move up 0.47; move right 0.4
+	line down 0.47 
+LINES3:
+	line right 6.3 at 1st box - (0, 1)
+	line up 1; arrow left 0.1
+.PE

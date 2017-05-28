@@ -1,0 +1,290 @@
+%!PS-Adobe-3.0
+%%Creator: groff version 1.22.2
+%%CreationDate: Sun May 28 00:10:31 2017
+%%DocumentNeededResources: font NimbusRomNo9L-ReguItal
+%%+ font NimbusRomNo9L-Regu
+%%DocumentSuppliedResources: procset grops 1.22 2
+%%Pages: 1
+%%PageOrder: Ascend
+%%DocumentMedia: Default 595 842 0 () ()
+%%Orientation: Portrait
+%%EndComments
+%%BeginDefaults
+%%PageMedia: Default
+%%EndDefaults
+%%BeginProlog
+%%BeginResource: procset grops 1.22 2
+%!PS-Adobe-3.0 Resource-ProcSet
+/setpacking where{
+pop
+currentpacking
+true setpacking
+}if
+/grops 120 dict dup begin
+/SC 32 def
+/A/show load def
+/B{0 SC 3 -1 roll widthshow}bind def
+/C{0 exch ashow}bind def
+/D{0 exch 0 SC 5 2 roll awidthshow}bind def
+/E{0 rmoveto show}bind def
+/F{0 rmoveto 0 SC 3 -1 roll widthshow}bind def
+/G{0 rmoveto 0 exch ashow}bind def
+/H{0 rmoveto 0 exch 0 SC 5 2 roll awidthshow}bind def
+/I{0 exch rmoveto show}bind def
+/J{0 exch rmoveto 0 SC 3 -1 roll widthshow}bind def
+/K{0 exch rmoveto 0 exch ashow}bind def
+/L{0 exch rmoveto 0 exch 0 SC 5 2 roll awidthshow}bind def
+/M{rmoveto show}bind def
+/N{rmoveto 0 SC 3 -1 roll widthshow}bind def
+/O{rmoveto 0 exch ashow}bind def
+/P{rmoveto 0 exch 0 SC 5 2 roll awidthshow}bind def
+/Q{moveto show}bind def
+/R{moveto 0 SC 3 -1 roll widthshow}bind def
+/S{moveto 0 exch ashow}bind def
+/T{moveto 0 exch 0 SC 5 2 roll awidthshow}bind def
+/SF{
+findfont exch
+[exch dup 0 exch 0 exch neg 0 0]makefont
+dup setfont
+[exch/setfont cvx]cvx bind def
+}bind def
+/MF{
+findfont
+[5 2 roll
+0 3 1 roll
+neg 0 0]makefont
+dup setfont
+[exch/setfont cvx]cvx bind def
+}bind def
+/level0 0 def
+/RES 0 def
+/PL 0 def
+/LS 0 def
+/MANUAL{
+statusdict begin/manualfeed true store end
+}bind def
+/PLG{
+gsave newpath clippath pathbbox grestore
+exch pop add exch pop
+}bind def
+/BP{
+/level0 save def
+1 setlinecap
+1 setlinejoin
+DEFS/BPhook known{DEFS begin BPhook end}if
+72 RES div dup scale
+LS{
+90 rotate
+}{
+0 PL translate
+}ifelse
+1 -1 scale
+}bind def
+/EP{
+level0 restore
+showpage
+}def
+/DA{
+newpath arcn stroke
+}bind def
+/SN{
+transform
+.25 sub exch .25 sub exch
+round .25 add exch round .25 add exch
+itransform
+}bind def
+/DL{
+SN
+moveto
+SN
+lineto stroke
+}bind def
+/DC{
+newpath 0 360 arc closepath
+}bind def
+/TM matrix def
+/DE{
+TM currentmatrix pop
+translate scale newpath 0 0 .5 0 360 arc closepath
+TM setmatrix
+}bind def
+/RC/rcurveto load def
+/RL/rlineto load def
+/ST/stroke load def
+/MT/moveto load def
+/CL/closepath load def
+/Fr{
+setrgbcolor fill
+}bind def
+/setcmykcolor where{
+pop
+/Fk{
+setcmykcolor fill
+}bind def
+}if
+/Fg{
+setgray fill
+}bind def
+/FL/fill load def
+/LW/setlinewidth load def
+/Cr/setrgbcolor load def
+/setcmykcolor where{
+pop
+/Ck/setcmykcolor load def
+}if
+/Cg/setgray load def
+/RE{
+findfont
+dup maxlength 1 index/FontName known not{1 add}if dict begin
+{
+1 index/FID ne
+2 index/UniqueID ne
+and
+{def}{pop pop}ifelse
+}forall
+/Encoding exch def
+dup/FontName exch def
+currentdict end definefont pop
+}bind def
+/DEFS 0 def
+/EBEGIN{
+moveto
+DEFS begin
+}bind def
+/EEND/end load def
+/CNT 0 def
+/level1 0 def
+/PBEGIN{
+/level1 save def
+translate
+div 3 1 roll div exch scale
+neg exch neg exch translate
+0 setgray
+0 setlinecap
+1 setlinewidth
+0 setlinejoin
+10 setmiterlimit
+[]0 setdash
+/setstrokeadjust where{
+pop
+false setstrokeadjust
+}if
+/setoverprint where{
+pop
+false setoverprint
+}if
+newpath
+/CNT countdictstack def
+userdict begin
+/showpage{}def
+/setpagedevice{}def
+mark
+}bind def
+/PEND{
+cleartomark
+countdictstack CNT sub{end}repeat
+level1 restore
+}bind def
+end def
+/setpacking where{
+pop
+setpacking
+}if
+%%EndResource
+%%EndProlog
+%%BeginSetup
+%%BeginFeature: *PageSize Default
+<< /PageSize [ 595 842 ] /ImagingBBox null >> setpagedevice
+%%EndFeature
+%%IncludeResource: font NimbusRomNo9L-ReguItal
+%%IncludeResource: font NimbusRomNo9L-Regu
+grops begin/DEFS 1 dict def DEFS begin/u{.001 mul}bind def end/RES 72
+def/PL 841.89 def/LS false def/ENC0[/asciicircum/asciitilde/Scaron
+/Zcaron/scaron/zcaron/Ydieresis/trademark/quotesingle/Euro/.notdef
+/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef
+/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef
+/.notdef/.notdef/.notdef/space/exclam/quotedbl/numbersign/dollar/percent
+/ampersand/quoteright/parenleft/parenright/asterisk/plus/comma/hyphen
+/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon
+/semicolon/less/equal/greater/question/at/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O
+/P/Q/R/S/T/U/V/W/X/Y/Z/bracketleft/backslash/bracketright/circumflex
+/underscore/quoteleft/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y
+/z/braceleft/bar/braceright/tilde/.notdef/quotesinglbase/guillemotleft
+/guillemotright/bullet/florin/fraction/perthousand/dagger/daggerdbl
+/endash/emdash/ff/fi/fl/ffi/ffl/dotlessi/dotlessj/grave/hungarumlaut
+/dotaccent/breve/caron/ring/ogonek/quotedblleft/quotedblright/oe/lslash
+/quotedblbase/OE/Lslash/.notdef/exclamdown/cent/sterling/currency/yen
+/brokenbar/section/dieresis/copyright/ordfeminine/guilsinglleft
+/logicalnot/minus/registered/macron/degree/plusminus/twosuperior
+/threesuperior/acute/mu/paragraph/periodcentered/cedilla/onesuperior
+/ordmasculine/guilsinglright/onequarter/onehalf/threequarters
+/questiondown/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE
+/Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex
+/Idieresis/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis
+/multiply/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn
+/germandbls/agrave/aacute/acircumflex/atilde/adieresis/aring/ae/ccedilla
+/egrave/eacute/ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis
+/eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis/divide/oslash
+/ugrave/uacute/ucircumflex/udieresis/yacute/thorn/ydieresis]def
+/NimbusRomNo9L-Regu@0 ENC0/NimbusRomNo9L-Regu RE
+/NimbusRomNo9L-ReguItal@0 ENC0/NimbusRomNo9L-ReguItal RE
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+BP
+%%EndPageSetup
+100.8 33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL CL .4 LW ST/F0 10
+/NimbusRomNo9L-ReguItal@0 SF(a)82.019 25 Q/F1 7/NimbusRomNo9L-Regu@0 SF
+(0).092 2 M 129.6 33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL CL ST F0(a)
+111.124 25 Q F1(1)-.517 2 M 158.4 33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6
+RL CL ST F0(a)139.64 25 Q F1(2).05 2 M 187.2 33.6 MT 0 -21.6 RL -28.8 0
+RL 0 21.6 RL CL ST F0(a)168.486 25 Q F1(3)-.041 2 M 216 33.6 MT 0 -21.6
+RL -28.8 0 RL 0 21.6 RL CL ST F0(a)197.177 25 Q F1(4).176 2 M 244.8 33.6
+MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL CL ST F0(a)226.047 25 Q F1(5).036 2 M
+273.6 33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL CL ST F0(a)254.854 25 Q F1
+(6).022 2 M 302.4 33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL CL ST F0(a)
+283.605 25 Q F1(7).12 2 M 331.2 33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL
+CL ST F0(a)312.531 25 Q F1(8)-.132 2 M 360 33.6 MT 0 -21.6 RL -28.8 0 RL
+0 21.6 RL CL ST F0(a)341.24 25 Q F1(9).05 2 M 388.8 33.6 MT 0 -21.6 RL
+-28.8 0 RL 0 21.6 RL CL ST F0(a)368.658 25 Q F1 -.168(10)-.517 2 O 417.6
+33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL CL ST F0(a)397.762 25 Q F1 -.777
+(11)-.517 2 O 446.4 33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL CL ST F0(a)
+426.279 25 Q F1 -.21(12)-.517 2 O 475.2 33.6 MT 0 -21.6 RL -28.8 0 RL 0
+21.6 RL CL ST F0(a)455.124 25 Q F1 -.301(13)-.517 2 O 504 33.6 MT 0
+-21.6 RL -28.8 0 RL 0 21.6 RL CL ST F0(a)483.816 25 Q F1 -.084(14)-.517
+2 O 532.8 33.6 MT 0 -21.6 RL -28.8 0 RL 0 21.6 RL CL ST F0(a)512.686 25
+Q F1 -.224(15)-.517 2 O 129.6 67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL ST
+/F2 10/NimbusRomNo9L-Regu@0 SF<8331>106.31 61 Q(48)-.72 E 158.4 67.8 MT
+0 -18 RL -28.8 0 RL 0 18 RL CL ST(\20332)137.25 61 Q 187.2 67.8 MT 0 -18
+RL -28.8 0 RL 0 18 RL CL ST<8331>163.755 61 Q(33)-.41 E 216 67.8 MT 0
+-18 RL -28.8 0 RL 0 18 RL CL ST<8331>195.18 61 Q(6)-.66 E 244.8 67.8 MT
+0 -18 RL -28.8 0 RL 0 18 RL CL ST<8331>221.49 61 Q -.07(94)-.61 G 273.6
+67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL ST<8331>250.255 61 Q(92)-.61 E
+331.2 67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL ST(\20325)307.9 61 Q(1)-.7
+E 388.8 67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL ST<8331>365.455 61 Q(92)
+-.61 E 417.6 67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL ST<8331>394.29 61 Q
+-.07(94)-.61 G 446.4 67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL ST<8331>
+425.58 61 Q(6)-.66 E 475.2 67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL ST
+<8331>451.755 61 Q(33)-.41 E 504 67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL
+ST(\20332)482.85 61 Q 532.8 67.8 MT 0 -18 RL -28.8 0 RL 0 18 RL CL ST
+<8331>509.51 61 Q(48)-.72 E 115.2 94.8 7.2 DC ST 144 94.8 7.2 DC ST
+172.8 94.8 7.2 DC ST 201.6 94.8 7.2 DC ST 230.4 94.8 7.2 DC ST 259.2
+94.8 7.2 DC ST 288 94.8 7.2 DC ST 316.8 94.8 7.2 DC ST 345.6 94.8 7.2 DC
+ST 374.4 94.8 7.2 DC ST 403.2 94.8 7.2 DC ST 432 94.8 7.2 DC ST 460.8
+94.8 7.2 DC ST 489.6 94.8 7.2 DC ST 518.4 94.8 7.2 DC ST 86.4 94.8 86.4
+33.6 DL 115.2 49.44 115.2 33.6 DL 144 49.44 144 33.6 DL 172.8 49.44
+172.8 33.6 DL 201.6 49.44 201.6 33.6 DL 230.4 49.44 230.4 33.6 DL 259.2
+49.44 259.2 33.6 DL 288 87.6 288 33.6 DL 316.8 49.44 316.8 33.6 DL 345.6
+87.6 345.6 33.6 DL 374.4 49.44 374.4 33.6 DL 403.2 49.44 403.2 33.6 DL
+432 49.44 432 33.6 DL 460.8 49.44 460.8 33.6 DL 489.6 49.44 489.6 33.6
+DL 518.4 49.44 518.4 33.6 DL 115.2 102 115.2 68.16 DL 144 102 144 68.16
+DL 172.8 102 172.8 68.16 DL 201.6 102 201.6 68.16 DL 230.4 102 230.4
+68.16 DL 259.2 102 259.2 68.16 DL 288 102 288 68.16 DL 316.8 102 316.8
+68.16 DL 345.6 102 345.6 68.16 DL 374.4 102 374.4 68.16 DL 403.2 102
+403.2 68.16 DL 432 102 432 68.16 DL 460.8 102 460.8 68.16 DL 489.6 102
+489.6 68.16 DL 518.4 102 518.4 68.16 DL 540 94.8 86.4 94.8 DL 540 22.8
+540 94.8 DL 532.8 22.8 MT 7.2 -1.8 RL 0 3.6 RL CL 0 Fg 532.8 22.8 MT 7.2
+-1.8 RL 0 3.6 RL CL .1 LW 0 Cg ST .4 LW 540 22.8 540 22.8 DL 0 Cg EP
+%%Trailer
+end
+%%EOF
