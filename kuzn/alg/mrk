@@ -1,44 +1,44 @@
 .EQ
 delim $$
 .EN
-.ps 20
 .PS
 M1:
-	box "$K$" ht 0.4 wid 3
-	arrow down 0.2i at 1st box - (0, 0.2)
-	box "$K sub 1$" ht 0.4 wid 1.5 at 1st box - (0.75, 0.6)
-	box "$K sub 2$" ht 0.4 wid 1.5 at 1st box - (-0.75, 0.6)
-	box "8 итераций" " " "cети Фейстеля" ht 1 wid 3 at 1st box - (0, 1.4)
-	arrow down
-	box "$K sub 3$" ht 0.4 wid 1.5 at 1st box - (0.75, 2.6)
-	box "$K sub 4$" ht 0.4 wid 1.5 at 1st box - (-0.75, 2.6)
-	box "8 итераций" " " "cети Фейстеля" ht 1 wid 3 at 4st box - (0, 2)
-	arrow down
-	box "$K sub 5$" ht 0.4 wid 1.5 at 1st box - (0.75, 4.6)
-	box "$K sub 6$" ht 0.4 wid 1.5 at 1st box - (-0.75, 4.6)
-	box "8 итераций" " " "cети Фейстеля" ht 1 wid 3 at 7st box - (0, 2)
-	arrow down
-	box "$K sub 7$" ht 0.4 wid 1.5 at 1st box - (0.75, 6.6)
-	box "$K sub 8$" ht 0.4 wid 1.5 at 1st box - (-0.75, 6.6)
-	box "8 итераций" " " "cети Фейстеля" ht 1 wid 3 at 10st box - (0, 2)
-	arrow down
-	box "$K sub 9$" ht 0.4 wid 1.5 at 1st box - (0.75, 8.6)
-	box "$K sub 10$" ht 0.4 wid 1.5 at 1st box - (-0.75, 8.6)
+	move down 1
+	box "$K$" ht 0.2 wid 1.4
+	arrow down 0.2i at 1st box - (0, 0.1)
+	box "$K sub 1$" ht 0.2 wid 0.7 at 1st box - (0.35, 0.4)
+	box "$K sub 2$" ht 0.2 wid 0.7 at 1st box - (-0.35, 0.4)
+	box "8 итераций" " " "cети Фейстеля" ht 0.6 wid 1   at 1st box - (0, 0.9)
+	arrow down 0.3
+	box "$K sub 3$" ht 0.2 wid 0.7 at 1st box - (0.35, 1.6)
+	box "$K sub 4$" ht 0.2 wid 0.7 at 1st box - (-0.35, 1.6)
+	box "8 итераций" " " "cети Фейстеля" ht 0.6 wid 1   at 4st box - (0, 1.2)
+	arrow down 0.3
+	box "$K sub 5$" ht 0.2 wid 0.7 at 1st box - (0.35, 2.8)
+	box "$K sub 6$" ht 0.2 wid 0.7 at 1st box - (-0.35, 2.8)
+	box "8 итераций" " " "cети Фейстеля" ht 0.6 wid 1   at 7st box - (0, 1.2)
+	arrow down 0.3
+	box "$K sub 7$" ht 0.2 wid 0.7 at 1st box - (0.35, 4)
+	box "$K sub 8$" ht 0.2 wid 0.7 at 1st box - (-0.35, 4)
+	box "8 итераций" " " "cети Фейстеля" ht 0.6 wid 1   at 10st box - (0, 1.2)
+	arrow down 0.3
+	box "$K sub 9$" ht 0.2 wid 0.7 at 1st box - (0.35, 5.2)
+	box "$K sub 10$" ht 0.2 wid 0.7 at 1st box - (-0.35, 5.2)
 M2:
-	ellipse "1,2,...,8" ht 0.4 wid 1.5 at 1st arrow - (-3, 0)
-	arrow down 0.8 at 1st ellipse - (0, 0.2)
-	L:	box "$L$" ht 0.4 wid 1.5
-		arrow left 0.75 at L - (0.75,0)
-	ellipse "9,10,...,16" ht 0.4 wid 1.5 at 1st ellipse - (0, 2)
-	arrow down 0.8 at 2st ellipse - (0, 0.2)
-	L:	box "$L$" ht 0.4 wid 1.5
-		arrow left 0.75 at L - (0.75,0)
-	ellipse "17,18,...,24" ht 0.4 wid 1.5 at 2st ellipse - (0, 2)
-	arrow down 0.8 at 3st ellipse - (0, 0.2)
-	L:	box "$L$" ht 0.4 wid 1.5
-		arrow left 0.75 at L - (0.75,0)
-	ellipse "25,26,...,32" ht 0.4 wid 1.5 at 3st ellipse - (0, 2)
-	arrow down 0.8 at 4st ellipse - (0, 0.2)
-	L:	box "$L$" ht 0.4 wid 1.5
-		arrow left 0.75 at L - (0.75,0)
+	ellipse "1,2,...,8" ht 0.2 wid 0.7 at 1st arrow - (-1.2, 0)
+	arrow down 0.6 at 1st ellipse - (0, 0.1)
+	L:	box "$L$" ht 0.2 wid 0.7
+		arrow left 0.35 at L - (0.35,0)
+	ellipse "9,10,...,16" ht 0.2 wid 0.7 at 1st ellipse - (0, 1.2)
+	arrow down 0.6 at 2st ellipse - (0, 0.1)
+	L:	box "$L$" ht 0.2 wid 0.7
+		arrow left 0.35 at L - (0.35,0)
+	ellipse "17,18,...,24" ht 0.2 wid 0.7 at 2st ellipse - (0, 1.2)
+	arrow down 0.6 at 3st ellipse - (0, 0.1)
+	L:	box "$L$" ht 0.2 wid 0.7
+		arrow left 0.35 at L - (0.35,0)
+	ellipse "25,26,...,32" ht 0.2 wid 0.7 at 3st ellipse - (0, 1.2)
+	arrow down 0.6 at 4st ellipse - (0, 0.1)
+	L:	box "$L$" ht 0.2 wid 0.7
+		arrow left 0.35 at L - (0.35,0)
 .PE
